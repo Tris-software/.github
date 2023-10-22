@@ -1,5 +1,3 @@
-**IT Company Brief**
-
 * **Company Name:** [TriS]
 * **Website URL:** [Website URL]
 * **Headquarters:** [SHARJAH, UAE]
