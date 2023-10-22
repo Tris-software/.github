@@ -1,6 +1,6 @@
-* **Company Name:** [TriS]
-* **Website URL:** [Website URL]
-* **Headquarters:** [SHARJAH, UAE]
+* **Company Name:** TriS
+* **Website URL:** Website URL
+* **Headquarters:** SHARJAH, UAE
 * **Mission Statement:** To craft captivating and engaging web experiences that drive measurable results for our clients.
 * **Vision Statement:** To be the most sought-after web development company, renowned for our creativity, innovation, and commitment to excellence.
 * **Services:**
@@ -17,7 +17,7 @@
 
 **Contact Information**
 
-* **Name:** Abeer AbdAlazeez
+* **Name:** Abeer Abdelaziz
 * **Email:** abeernuse88@gmail.com
 * **Name:** Tasneem HamedALneel
 * **Email:** setasneem@gmail.com
