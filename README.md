@@ -17,7 +17,7 @@
 
 **Contact Information**
 
-* **Name:** [Contact name]
-* **Title:** [Contact title]
-* **Email:** [Email address]
-* **Phone:** [Phone number]
+* **Name:** Abeer AbdAlazeez
+* **Email:** abeernuse88@gmail.com
+* **Name:** Tasneem HamedALneel
+* **Email:** setasneem@gmail.com
