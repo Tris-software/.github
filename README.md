@@ -9,7 +9,10 @@
     * Content management system (CMS) development
     * Responsive design
     * Web design (UI/UX)
+    * Mobile application
     * Web development consulting
+    * Graphic design
+    * Photography
 * **Target Audience:** Businesses of all sizes seeking to establish a strong online presence
 * **Unique Value Proposition:** We are a team of passionate web developers who are dedicated to creating websites that are not only visually appealing but also user-friendly and effective in achieving our clients' business goals. We take a consultative approach to every project, working closely with our clients to understand their needs and develop solutions that exceed their expectations.
 * **Call to Action:** Contact us today for a free consultation to discuss your web development needs.
